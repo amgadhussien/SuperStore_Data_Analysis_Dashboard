@@ -52,9 +52,7 @@ This project is open-source. You are free to use the cleaned datasets or the Exc
 ---
 
 ## 📧 Contact Me
-For any inquiries or collaboration opportunities:
-
----
+If you have any questions or want to discuss this project, feel free to reach out directly:
 
 * **WhatsApp:** [Message me on WhatsApp](https://wa.me/201553918594)
 * **Primary Email:** [amgadhussien.da@gmail.com](mailto:amgadhussien.da@gmail.com)
